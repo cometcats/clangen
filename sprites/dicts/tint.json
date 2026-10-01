@@ -25,7 +25,7 @@
     "DARKBROWN": "darkbrown",
     "CHOCOLATE": "darkbrown",
     "RUST": "rust",
-    "RASPBERRY": "warm"
+    "RASPBERRY": "rust"
   },
   "possible_tints": {
     "basic": ["pink", "gray", "red", "orange", "warmdilute", "tawny", "densecocoa"],
