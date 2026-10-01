@@ -93,6 +93,10 @@
             "one": "brown",
             "many": "rusted brown"
         },
+        "RASPBERRY": { 
+            "one": "pink"
+            "many": "raspberry pink"
+        },
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",
         "TwoColour": "two color",
