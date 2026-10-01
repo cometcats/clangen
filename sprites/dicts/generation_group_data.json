@@ -25,7 +25,8 @@
             "DARKBROWN": "brown",
             "CHOCOLATE": "brown",
             "RUST": "brown",
-            "RASPBERRY": "ginger"
+            "RASPBERRY": "ginger",
+            "RADIOACTIVE": "black"
         },
         "pattern_types": {
             "Tabby": "tabbies",
