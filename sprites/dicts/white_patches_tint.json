@@ -23,7 +23,8 @@
     "DARKBROWN": "brown",
     "CHOCOLATE": "brown",
     "RUST": "brown",
-    "RASPBERRY": "ginger"
+    "RASPBERRY": "ginger",
+    "RADIOACTIVE": "basic"
   },
   "possible_tints": {
     "basic": ["offwhite", "offwhite"],
