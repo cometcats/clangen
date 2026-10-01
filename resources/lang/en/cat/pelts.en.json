@@ -97,6 +97,10 @@
             "one": "pink"
             "many": "raspberry pink"
         },
+        "RADIOACTIVE": {
+            "one": "green"
+            "many": "bright green"
+        },
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",
         "TwoColour": "two color",
