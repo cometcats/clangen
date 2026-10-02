@@ -94,11 +94,11 @@
             "many": "rusted brown"
         },
         "RASPBERRY": { 
-            "one": "pink"
+            "one": "pink",
             "many": "raspberry pink"
         },
         "RADIOACTIVE": {
-            "one": "green"
+            "one": "green",
             "many": "bright green"
         },
         "SingleColour": "single color",
